@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ilkay997Ä@gmail.com
+	name = Äilkay
